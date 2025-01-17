@@ -3,6 +3,9 @@
   <code>System.out.println("Welcome to my github!");</code>
   <hr>
 </div>
+
+<p>🎓 majoring in information systems <a href="https://www.usjt.br" target="blanck_">São Judas Tadeu</a></p>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alencark/Alencark/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alencark/Alencark/output/github-contribution-grid-snake-dark.svg">
